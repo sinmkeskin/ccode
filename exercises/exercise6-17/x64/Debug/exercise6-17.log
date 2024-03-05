@@ -1,0 +1,3 @@
+﻿  exercise6-17.cpp
+C:\Users\sinem\source\repos\exercises\exercise6-17\exercise6-17.cpp(10,13): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  exercise6-17.vcxproj -> C:\Users\sinem\source\repos\exercises\x64\Debug\exercise6-17.exe

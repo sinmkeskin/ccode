@@ -1,0 +1,3 @@
+﻿  exercise9-7.cpp
+C:\Users\sinem\source\repos\exercises\exercise9-7\exercise9-7.cpp(7,60): warning C4552: '>=': result of expression not used
+  exercise9-7.vcxproj -> C:\Users\sinem\source\repos\exercises\x64\Debug\exercise9-7.exe

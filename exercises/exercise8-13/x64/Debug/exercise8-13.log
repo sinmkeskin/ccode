@@ -1,0 +1,5 @@
+﻿  exercise8-13.cpp
+C:\Users\sinem\source\repos\exercises\exercise8-13\exercise8-13.cpp(20,10): warning C4778: 'printf' : unterminated format string '%.'
+C:\Users\sinem\source\repos\exercises\exercise8-13\exercise8-13.cpp(20,39): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\sinem\source\repos\exercises\exercise8-13\exercise8-13.cpp(20,39): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  exercise8-13.vcxproj -> C:\Users\sinem\source\repos\exercises\x64\Debug\exercise8-13.exe

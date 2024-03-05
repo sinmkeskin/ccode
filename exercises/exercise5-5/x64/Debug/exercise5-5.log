@@ -1,0 +1,4 @@
+﻿  exercise5-5.cpp
+C:\Users\sinem\source\repos\exercises\exercise5-5\exercise5-5.cpp(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\sinem\source\repos\exercises\exercise5-5\exercise5-5.cpp(12,9): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 3 has type 'int'
+  exercise5-5.vcxproj -> C:\Users\sinem\source\repos\exercises\x64\Debug\exercise5-5.exe

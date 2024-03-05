@@ -1,0 +1,6 @@
+﻿  exercise8-19.cpp
+C:\Users\sinem\source\repos\exercises\exercise8-19\exercise8-19.cpp(12,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\sinem\source\repos\exercises\exercise8-19\exercise8-19.cpp(12,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\sinem\source\repos\exercises\exercise8-19\exercise8-19.cpp(12,13): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\sinem\source\repos\exercises\exercise8-19\exercise8-19.cpp(12,13): message : this argument is used as a buffer size
+  exercise8-19.vcxproj -> C:\Users\sinem\source\repos\exercises\x64\Debug\exercise8-19.exe
